@@ -9,7 +9,7 @@ int main(void)
   y=1;
   z=0;
  
-  printf("Cuantos números deseas: ");
+  printf("Cuantos nÃºmeros deseas: ");
   scanf("%I64u", &stop);
 
   //printf("0\n1\n");
